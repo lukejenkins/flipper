@@ -1,10 +1,11 @@
 The goal is to familiarize yourself with an NFC card.
 
-Each student is provided with a lab card (marked with some mark)
+Each student is provided with a lab card for this lab. It is marked with "MFC".
 
 Put the card under the flipper and launch the NFC app. Read the card.
 
 The app will try to unlock all of the sectors and read them all:
+
 ￼
 
 After a few minutes, the flipper will exhaust all of the keys included with the firmware and shows this screen:
