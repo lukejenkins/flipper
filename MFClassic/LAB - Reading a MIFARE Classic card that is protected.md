@@ -44,5 +44,10 @@ Read the card again:
 
 Save the card to a new file and view the “More” for the card. The data now is complete without any ?’s.
 
+### Sources, references and further reading
+
+* https://docs.flipper.net/nfc
+* https://gist.github.com/noproto/63f5dea3f77cae4393a4aa90fc8ef427
+* https://www.reddit.com/r/flipperzero/comments/16u6mlx/mfkey_beta_now_supports_cracking_static_nested/
 
 [^1]: https://github.com/AloneLiberty/FlipperNested/wiki/Usage-guide
