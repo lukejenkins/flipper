@@ -2,7 +2,7 @@
 
 ## Day One
 
-[Day one Lab Guide](WLPC%202024%20Flipper%20Zero%20Deep%20Dive%20v1.3.pdf)
+[Day one Lab Guide](WLPC%202024%20Flipper%20Zero%20Deep%20Dive%20v1.0.pdf)
 
 ## Day Two
 
