@@ -1,4 +1,4 @@
-The goal is to familiarize yourself with an NFC card.
+The goal of this lab is to familiarize yourself with an NFC card.
 
 Each student is provided with a lab card for this lab. It is marked with "MFC".
 
@@ -6,7 +6,7 @@ Put the card under the flipper and launch the NFC app. Read the card.
 
 The app will try to unlock all of the sectors and read them all:
 
-![092622.png](./092622.png)
+![.](./092622.png)
 
 After a few minutes, the flipper will exhaust all of the keys included with the firmware and shows this screen:
 
@@ -26,7 +26,7 @@ Scroll down until you find some missing data:
 
 Save the card data we have so far using the Save function.
 
-Currently the flipper doesn’t have a way to crack keys with just the card. For now I will provide you with the key.
+Currently the flipper doesn’t have a way to crack keys with just the card[^1]. For now I will provide you with the key.
 
 Now we will add the missing key for this card. In the NFC app, select “Extra Actions” and then “MIFARE Classic Keys”:
 
@@ -43,3 +43,6 @@ Read the card again:
 ![.](./095056.png)
 
 Save the card to a new file and view the “More” for the card. The data now is complete without any ?’s.
+
+
+[^1]: https://github.com/AloneLiberty/FlipperNested/wiki/Usage-guide
