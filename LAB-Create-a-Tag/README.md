@@ -10,7 +10,7 @@ Then navigate to the NFC folder:
 
 ![.](./screenshots/Screenshot-20240219-153047.png)
 
-And select the NFC Maker app:
+And select the NFC Maker[^1] app:
 
 ![.](./screenshots/Screenshot-20240219-153056.png)
 
@@ -57,3 +57,12 @@ Good job!
 If you read it again with the NFC app, this is what it looks for:
 
 ![.](./screenshots/Screenshot-20240219-171846.png)
+
+
+### Sources, references and further reading
+
+* https://docs.flipper.net/nfc
+* https://docs.flipper.net/nfc/magic-cards
+
+
+[^1]: https://github.com/Flipper-XFW/Xtreme-Apps/tree/d855d02142a9650b38f6558c9d15260b08f53a86/nfc_maker
